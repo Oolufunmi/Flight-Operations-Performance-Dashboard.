@@ -70,10 +70,7 @@ Some insights revealed from the analysis include:
 
 ## 🖼 Dashboard Preview
 <img width="1192" height="676" alt="image" src="https://github.com/user-attachments/assets/fdfe7817-c8c0-4bda-a291-8d5db7252a41" />
-
-![Dashboard Preview](dashboard.png)
-
-*(Replace this with the actual screenshot of your dashboard in the repository.)*
+#Interact with the Dashboard here 👉🏾https://bit.ly/4bg95ym
 
 ---
 
